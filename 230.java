@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//It's a binary search tree so inorder gives sorted array ,take kth element from front
 class Solution {
     int count = 0;
     int ans = 0;
